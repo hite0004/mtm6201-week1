@@ -1,0 +1,48 @@
+* {
+    
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    margin: 0;
+    /* max-width: 75%; */
+    /* adding margin will take the content to the center */
+    margin: auto;
+    /* aligns the text in the content to the center */
+    text-align: center;
+    background-color: #9b91db;
+    }
+
+
+
+h1{
+    border-width:3px;
+    border-style:solid;
+    border-color:#287EC7;
+    background-color: rgb(137, 187, 230);
+    
+}
+
+img {
+    border-width:5px;
+    border-style:solid;
+    border-color:#287EC7;
+    
+    margin: 0 auto;
+    max-width: 30%;
+    border-radius: 30%; 
+}
+
+.description {
+    background-color: #287EC7;
+    max-width: 75%;
+    margin: auto;
+    color: white;
+}
+
+
+dt{
+    color: yellow;
+}
